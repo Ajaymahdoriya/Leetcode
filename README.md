@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0029-divide-two-integers) |
 ## Bit Manipulation
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0012-integer-to-roman) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0015-3sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
