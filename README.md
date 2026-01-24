@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
