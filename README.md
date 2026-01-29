@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0031-next-permutation) |
+| [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0043-multiply-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
