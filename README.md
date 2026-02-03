@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
@@ -127,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
