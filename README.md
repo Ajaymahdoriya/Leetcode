@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0012-integer-to-roman) |
+| [0032-longest-valid-parentheses](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0067-add-binary) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0198-house-robber) |
 ## Sliding Window
 |  |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0047-permutations-ii) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
