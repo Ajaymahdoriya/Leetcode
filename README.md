@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
