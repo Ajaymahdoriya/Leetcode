@@ -58,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0089-gray-code) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
