@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0089-gray-code) |
 ## Bit Manipulation
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0060-permutation-sequence) |
 ## Simulation
 |  |
 | ------- |
