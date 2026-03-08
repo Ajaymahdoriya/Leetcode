@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0198-house-robber) |
 ## Sliding Window
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0060-permutation-sequence) |
 ## Simulation
 |  |
@@ -208,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
