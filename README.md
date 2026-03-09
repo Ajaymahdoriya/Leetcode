@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
