@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0067-add-binary) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ajaymahdoriya/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ajaymahdoriya/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
