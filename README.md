@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Breadth-First Search
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0089-gray-code) |
+| [0539-minimum-time-difference](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0067-add-binary) |
+| [0539-minimum-time-difference](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Ajaymahdoriya/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ajaymahdoriya/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ajaymahdoriya/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
